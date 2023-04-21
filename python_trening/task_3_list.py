@@ -21,5 +21,8 @@ print(len(test_list))   # Получать длину списка
 test_list.append('шесть')   # Добавить значение в список
 print(test_list)
 
+print(test_list)
+
+
 
 
